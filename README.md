@@ -5,10 +5,10 @@ First, the problem was defined and potential solutions and performance metrics w
 
 # Things learned by completing this project:
 
-How to research and investigate a real-world problem of interest.
-How to accurately apply specific machine learning algorithms and techniques.
-How to properly analyze and visualize your data and results for validity.
-How to document and write a report of your work.
+-How to research and investigate a real-world problem of interest.
+-How to accurately apply specific machine learning algorithms and techniques.
+-How to properly analyze and visualize your data and results for validity.
+-How to document and write a report of work.
 
 
 # Project description
