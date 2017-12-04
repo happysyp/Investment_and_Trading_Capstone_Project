@@ -1,8 +1,7 @@
 # Capstone Project Overview
-In this capstone project, what I’ve learned throughout the Nanodegree program was leveraged to solve a problem of my choice by applying machine learning algorithms and techniques. First, the problem was defined and potential solutions and performance metrics were investigated. Next, the problem was analyzed through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. The algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps were implemented along the way. Afterwards, results were collected about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, conclusions were constructed about my results, and whether my implementation adequately solves the problem was discussed.
-
-# Capstone Project Highlights
 This project was designed to prepare me for delivering a polished, end-to-end solution report of a real-world problem in a field of interest. 
+
+In this capstone project, what I’ve learned throughout the Udacity Machine Learning Nanodegree program was leveraged to solve a problem of my choice by applying machine learning algorithms and techniques. First, the problem was defined and potential solutions and performance metrics were investigated. Next, the problem was analyzed through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. The algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps were implemented along the way. Afterwards, results were collected about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, conclusions were constructed about my results, and whether my implementation adequately solves the problem was discussed.
 
 # Things learned by completing this project:
 
